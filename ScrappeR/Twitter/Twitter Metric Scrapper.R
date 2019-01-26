@@ -9,10 +9,10 @@ library('twitteR')
 
 
 # Change the next four lines based on your own consumer_key, consume_secret, access_token, and access_secret. 
-consumer_key <- "WdwupK3sVu1bxNO2JJMqQKUXl"
-consumer_secret <- "kw1LSuqZzkqmEtyGt7AUgYFm6qqhu4mmqg8WzotdIkpDDdBqGn"
-access_token <- "1008957653102366725-y9qt09LxWRLsqfLB37dIUAjBIl7J00"
-access_secret <- "WTRHTN7xZOJNbqaq0mcl7P1G7jJF8kG7CQZPaFshVq7NG"
+consumer_key <- "api"
+consumer_secret <- "api"
+access_token <- "api"
+access_secret <- "api"
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 
 
